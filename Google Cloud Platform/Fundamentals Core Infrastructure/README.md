@@ -9,4 +9,4 @@ The following is the mind map I created after taking the Google onsite training 
 
 
 ## License
-This mind maps is licensed under MIT License, see LICENSE for more information.
+This mind map is licensed under MIT License, see LICENSE for more information.
